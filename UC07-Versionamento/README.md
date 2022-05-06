@@ -15,7 +15,7 @@ git add nomearquivo => adiciona ao pacote apenas o arquivo selecinado
 
 git commit -m "alteração que foi feita" => grava as alterações realizadas (definir nome para a alteração)
 
-git config --global user.emmail "email@usuario.com.br" => configura email de usuario local
+git config --global user.email "endereço do email" => configura email de usuario local
 
 git config --global user.name "nome usuário" => configura nome de usuario local
 
