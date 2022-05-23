@@ -1,2 +1,2 @@
 # Versionamento
-Aprendendo a usar o Git e o GitHub
+Repositório apra as atividades do Curso SENAI FullStack
